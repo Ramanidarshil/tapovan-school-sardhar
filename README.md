@@ -3,6 +3,7 @@
 Tapovan School is a PHP and MySQL based web application developed as a BCA Semester 2 academic project. This system runs on XAMPP local server and provides secure login functionality for Principal (Admin) and Students with role-based dashboard access and login activity tracking.
 
 --
+![Image1](photo/1.png)
 ## 🚀 Features
 
 - 🔐 Secure Login System (Student & Principal)
