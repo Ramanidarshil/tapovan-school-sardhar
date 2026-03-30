@@ -4,13 +4,7 @@ Tapovan School is a PHP and MySQL based web application developed as a BCA Semes
 
 --
 ![Image1](photo/1.png)
-![Image2](photo/2.png)
-![Image3](photo/3.png)
-![Image4](photo/4.png)
-![Image5](photo/5.png)
-![Image6](photo/6.png)
-![Image7](photo/7.png)
-![Image8](photo/8.png)
+
 ## 🚀 Features
 
 - 🔐 Secure Login System (Student & Principal)
